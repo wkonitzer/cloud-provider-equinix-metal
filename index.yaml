@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  cloud-provider-equinix-metal:
+  - apiVersion: v2
+    appVersion: main
+    created: "2024-10-30T14:05:00.271039-05:00"
+    description: Kubernetes Cloud Provider for Equinix Metal
+    digest: dac4464ddeb36c014aa58ff174f1dbd0c1ce9da8a9130098c9dce5692ddb38e9
+    home: https://deploy.equinix.com/labs/cloud-provider-equinix-metal
+    name: cloud-provider-equinix-metal
+    sources:
+    - https://sigs.k8s.io/cloud-provider-equinix-metal
+    type: application
+    urls:
+    - https://wkonitzer.github.io/cloud-provider-equinix-metal/cloud-provider-equinix-metal-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-30T14:05:00.270418-05:00"
